@@ -97,4 +97,4 @@ Open the `reports/` folder to find:
 > Developed an end-to-end E-Commerce Business Analytics Dashboard using Python, SQL, and Pandas. Designed a SQLite database schema for 2,000+ order records, wrote SQL queries to calculate 7 business KPIs, and generated a Power BI style multi-chart dashboard and automated PDF stakeholder report using Matplotlib and ReportLab.
 
 ## Duration
-July 2025 -- Present | Solo Developer | Business Analyst Portfolio Project
+Feb2026 --- Present | Developer | Business Analyst Project
